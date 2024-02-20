@@ -23,3 +23,5 @@ commands:
 /avatar [line 268]
 /info [line 279]
 total: 15
+
+IMPORTANT! Use the latest Python release and discord module for it to function properly!
