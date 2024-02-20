@@ -14,7 +14,7 @@ tree = discord.app_commands.CommandTree(client)
 welcome_channel = #your welcome channel id
 leave_channel = #Your leave channel id
 verify_role = #Your verify role id
-TOKEN = #Your Token
+TOKEN = 'replace this with your Token here' #Don't delete the '' as they are needed!
 
 @tree.command(name="ping", description="Ping the bot!")
 async def ping(ctx):
